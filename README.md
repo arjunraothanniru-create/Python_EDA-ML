@@ -1,2 +1,2 @@
 # Python_EDA-ML
-datacleaning using python and ml models implimantation 
+datacleaning using python and ml models implementation 
